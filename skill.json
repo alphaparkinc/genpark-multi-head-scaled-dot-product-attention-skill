@@ -1,0 +1,9 @@
+{
+  "name": "genpark-multi-head-scaled-dot-product-attention-skill",
+  "version": "1.0.0",
+  "description": "Transformer multi-head self-attention engine with causal triangular masking and softmax normalization",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
